@@ -2,7 +2,7 @@
 
 - Creo la carpeta e inicio git agregando las dos carpetas que como veras una de ellas tiene dichas presentación.
 
-<image src="C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (141).png">
+<image src="C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (141).png" />
 
 2)  **Subir el repositorio a GitHub**
 
