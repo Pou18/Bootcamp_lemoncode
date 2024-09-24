@@ -2,13 +2,13 @@
 
 - Creo la carpeta e inicio git agregando las dos carpetas que como veras una de ellas tiene dichas presentación.
 
-![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (137).png)
+![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (141).png)
 
 2)  **Subir el repositorio a GitHub**
 
 - Hago nuevo repositorio
 
-![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (138).png)
+![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (142).png)
 
 - Hago token
 
@@ -24,22 +24,48 @@
 
   
 
-- Hago fork del repositorio
+**3. Hacer un commit y un push**
 
 
 
-​	 
+- Conecto mi carpeta local a git hub y subo cambios
+
+![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (140).png)
 
 
 
-- Clono repositorio con ssh
-
-![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Imagen4.png)
+**4. Crear una rama**
 
 
 
-- Abro vs code con el repo clonado y hago commit con un archivo que he hecho
+- Creo nueva rama y cambio a esta
 
-![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (139).png)
+![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (143).png)
 
-- Hago fork del reposi
+
+
+- Cambio archivos , guardo y hago commit
+
+![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (144).png)
+
+
+
+- Subo archivos
+
+![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (145).png)
+
+
+
+**5. Hacer un merge**
+
+
+
+- Vuelve a la rama "main".
+- Haz un merge de la rama "development" a la rama "main".
+- Si no hay conflictos, los cambios realizados en la rama "development" se incorporarán a la rama "main".
+- Haz un push de los cambios al repositorio en GitHub.
+
+![](C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (146).png)
+
+
+
