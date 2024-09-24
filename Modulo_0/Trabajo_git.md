@@ -2,7 +2,7 @@
 
 - Creo la carpeta e inicio git agregando las dos carpetas que como veras una de ellas tiene dichas presentación.
 
-<image src="C:\Users\grado\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla (141).png" alt="Descripción de la imagen">
+<image src="C:\Users\grado\OneDrive\Escritorio\Repositorios\Bootcamp_lemoncode\Modulo_0\Fotos\Captura de pantalla (139).png" alt="Descripción de la imagen">
 
 2)  **Subir el repositorio a GitHub**
 
