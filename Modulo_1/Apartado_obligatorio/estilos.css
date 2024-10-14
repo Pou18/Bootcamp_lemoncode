@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+    background-color: #ffffff;
+    color: #212429;
+}
+
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 32px;
+    font-weight:800;
+    text-align: left;
+    margin: 32px;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    max-width: 1280px;
+    padding: 32px;
+    margin: auto;
+   
+    
+}
+
+.vestido{
+    align-items: center;
+    background-color: #ffffff;
+    padding: 16px;
+}
+
+.vestido img{
+
+    max-width: 100%;
+    height: auto;
+}
+
+.informacion {
+    display: flex;
+    justify-content: flex-start;
+    gap: 20px;
+    align-items: center;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+.informacion h2{
+
+    font-size: 14px;
+    font-weight: 400;
+
+}
+
+.informacion .precio{
+    
+    font-size: 14px;
+    font-weight: bold;
+}
