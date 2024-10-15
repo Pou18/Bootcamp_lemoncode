@@ -16,16 +16,16 @@ body{
 h1{
     font-family: "Montserrat", sans-serif;
     font-size: 32px;
-    font-weight:800;
+    font-weight:800; /* He puesto un poco mas de grosor*/
     text-align: left;
     margin: 32px;
 }
 
 .grid-container{
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3,1fr); /* ancho de colummnas*/
     gap: 20px;
-    max-width: 1280px;
+    max-width: 1280px; /* ancho de pantalla */
     padding: 32px;
     margin: auto;
    
@@ -40,17 +40,18 @@ h1{
 
 .vestido img{
 
-    max-width: 100%;
-    height: auto;
+    max-width:100%;
+    height: auto;  /* Aquí no se si es auto o hay que poner el height */
 }
 
 .informacion {
     display: flex;
-    justify-content: flex-start;
-    gap: 20px;
-    align-items: center;
+    justify-content:space-between; /* aquí no he podido alinear bien el tipo de ropa con la ropa*/
+    gap: 5px;  
+    align-items:center;
     font-size: 14px;
     margin-top: 8px;
+    padding: 8px;
 }
 
 .informacion h2{
@@ -64,4 +65,7 @@ h1{
     
     font-size: 14px;
     font-weight: bold;
+    margin-left: auto; /* empujo el precio a la derecha ya que no se pnerlo con flex. 
+                        O hay alguna opción que no sea esta?
+                         El problerma es que se va el precio totalmente a la derecha y se sale*/
 }
