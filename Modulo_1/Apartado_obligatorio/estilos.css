@@ -67,5 +67,6 @@ h1{
     font-weight: bold;
     margin-left: auto; /* empujo el precio a la derecha ya que no se pnerlo con flex. 
                         O hay alguna opción que no sea esta?
-                         El problerma es que se va el precio totalmente a la derecha y se sale*/
+                         El problerma es que se va el precio totalmente a la derecha y se sale.
+                         No se como arreglarlo*/
 }
